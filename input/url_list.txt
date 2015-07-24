@@ -1,0 +1,17 @@
+# Settings for the crawler
+# URL\tselector1\tcategory1[\tselector2\tcategory2]
+
+# Research Gate
+https://www.researchgate.net/profile/Duy_Dinh5	div>div>ul>li>div.keyword-list-token-plain>a.keyword-list-token-text|skills	div>div>ul>li>div.keyword-list-token>a.keyword-list-token-text|topics
+
+# Mysciencework
+https://www.mysciencework.com/profile/dkd.list	div.user-keywords|keywords
+
+# LinkedIn
+https://fr.linkedin.com/pub/duy-dinh/74/478/8a1	li.interest-item|interest	dd>span.locality|living-location	tr#overview-summary-current>td|organization
+
+# Google scholar
+https://scholar.google.com/citations?user=wYeP57YAAAAJ&hl=en	a.gsc_prf_ila|discipline	div.gsc_prf_il:not(:has(a))|current-position
+
+# DBLP
+http://dblp.uni-trier.de/pers/hd/d/Dinh:Duy	span.title|PUBLICATION-TITLE

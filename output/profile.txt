@@ -1,0 +1,36 @@
+infeurope S.A., Luxembourg Institute of Science and Technology (LIST)	organization
+Requirements for Implementing Mapping Adaptation Systems.	publication-title
+Semantic Web Technologies	skills
+Information Extraction	skills
+Information Retrieval	skills
+Voting Techniques for a Multi-terminology Based Biomedical Information Retrieval.	publication-title
+The Influence of Similarity between Concepts in Evolving Biomedical Ontologies for Mapping Adaptation.	publication-title
+Information Science	topics
+Semantic Analysis and Automatic Corpus Construction for Entailment Recognition in Medical Texts.	publication-title
+Ontologies	skills
+Combining Global and Local Semantic Contexts for Improving Biomedical Information Retrieval.	publication-title
+Knowledge Management	skills
+Identifying Change Patterns of Concept Attributes in Ontology Evolution.	publication-title
+Recherche d'information dans les documents biomédicaux: approche basée sur le sens précis des concepts.	publication-title
+Knowledge Representation	skills
+CRP Henri Tudor at TREC 2014: Combining Search Results for Clinical Decision Support.	publication-title
+Factors affecting the effectiveness of biomedical document indexing and retrieval based on terminologies.	publication-title
+IRIT at ImageCLEF 2011: Medical Retrieval Task.	publication-title
+Mapping adaptation actions for the automatic reconciliation of dynamic ontologies.	publication-title
+IRIT at ImageCLEF 2010: Medical Retrieval Track.	publication-title
+Thionville, Lorraine, France	living-location
+Web Intelligence	skills
+Towards a context sensitive approach to searching information based on domain specific knowledge sources.	publication-title
+Vers un modèle d'indexation sémantique adapté aux dossiers médicaux de patients.	publication-title
+Contextual query classification in web search.	publication-title
+Knowledge Engineering	skills
+IRIT at TREC 2011: Evaluation of Query Expansion Techniques for Medical Record Retrieval.	publication-title
+Data Mining	topics
+Recognizing lexical and semantic change patterns in evolving life science ontologies to inform mapping adaptation.	publication-title
+Indexing	skills
+Artificial Intelligence	topics
+Knowledge Organization Systems	skills
+Natural Language Processing	skills
+Sense-Based Biomedical Indexing and Retrieval.	publication-title
+Information Systems (Business Informatics)	topics
+Biomedical concept extraction based on combining the content-based and word order similarities.	publication-title

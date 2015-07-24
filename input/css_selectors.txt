@@ -1,0 +1,17 @@
+# Settings for the crawler
+# Social_network::selector1\tcategory1[\tselector2\tcategory2]
+
+# Research Gate
+researchgate::div>div>ul>li>div.keyword-list-token-plain>a.keyword-list-token-text|skills	div>div>ul>li>div.keyword-list-token>a.keyword-list-token-text|topics
+
+# Mysciencework
+mysciencework::div.user-keywords|keywords
+
+# LinkedIn
+linkedin::li.interest-item|interest	dd>span.locality|living-location	tr#overview-summary-current>td|organization
+
+# Google scholar
+googlescholar::a.gsc_prf_ila|discipline	div.gsc_prf_il:not(:has(a))|current-position
+
+# DBLP
+dblp::span.title|PUBLICATION-TITLE
